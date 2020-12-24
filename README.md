@@ -1,8 +1,6 @@
 
-#for problem solve 
-i add miy soluation in file called solve problem, you find commented point in start of file.
 # Some point need to take in your considration:-
-
+# it is small demo for Viper and RxSwift.
 1- code need more cleanUp
 2- pager in home page not like design, their is pod doing same design. But im run out of free time to add it.
 3- save item in database for cart it now saving it live session only not when app closed.
@@ -14,7 +12,7 @@ for cart screen not having interactor or router layer becuse i not used it, i ju
 also for asset add added default image when image url failed
 i mocked data showed in ui in sandBox
 
-# Sorry for all this point i had limit free time this days.
+
 
 
 #Thanks.
